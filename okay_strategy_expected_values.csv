@@ -1,0 +1,12 @@
+Strategy,Expected_Shots
+triangle_front_to_6pyr_front,42.09616764304609
+triangle_front_to_6pyr_side,41.813644790279994
+triangle_front_to_zipper,40.57890674665979
+triangle_front_to_olympics,40.10546652576713
+triangle_side_to_6pyr_front,41.87568252413449
+triangle_side_to_6pyr_side,41.59315893400209
+triangle_side_to_zipper,40.35842164088623
+triangle_side_to_olympics,39.91055538904193
+triangle_hybrid_to_6pyr_hybrid,42.09616810317451
+triangle_hybrid_to_zipper,40.578906828893246
+triangle_hybrid_to_olympics,40.10546652576713
